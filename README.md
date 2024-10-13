@@ -1,29 +1,25 @@
-# FileDrive
+# Real-Time Chat Application
 
-**FileDrive** is a file storage management application that allows users to add, delete, and like files. It features a user-friendly interface and currently serves over 10 active users.
+**Real-Time Chat Application** is a chat platform that features user authentication, private messaging, and file sharing capabilities. It is built using React.js, Express.js, and Firebase, and currently supports over 50 active users.
 
 ## Live Demo
-[FileDrive Live](https://filestdrive-sourabh-singh-bais.vercel.app/)
+[Chat Application Live](https://sourabh-react-chat-app.netlify.app/)
 
 ## Features
-- **Add/Upload Files**
-- **Delete Files**
-- **Like Files (Favorites)**
-- **User Authentication** (via Clerk)
-- **Real-time Database Management** (using Convex)
+- **User Authentication**: Secure sign-up and login.
+- **Private Messaging**: Send direct messages to users.
+- **File Sharing**: Share files seamlessly within chats.
+- **Real-Time Communication**: Instant message delivery and updates.
 
 ## Tech Stack
-- **Next.js** for frontend
-- **Tailwind CSS** for styling
-- **TypeScript** for type safety
-- **Convex** for backend and file handling
-- **Clerk** for authentication
+- **React.js** for frontend development
+- **Express.js** for backend API
+- **Firebase** for real-time database and authentication
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/filestdrive.git
+   git clone https://github.com/yourusername/chat-app.git
 2. Install dependencies:
-  ```bash
-  npm install
-
+   ```bash
+   npm install
