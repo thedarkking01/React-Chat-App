@@ -26,13 +26,4 @@
 2. Install dependencies:
   ```bash
   npm install
-3. Run the development server:
-   ```bash
-   npm run dev
-4. Open http://localhost:3000 in your browser.
 
-## Future Improvements
-- File Sharing Features
-- Enhanced Categorization and Tagging
-## Contributions
-- Contributions are welcome! Please open an issue or submit a pull request.
